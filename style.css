@@ -3,7 +3,9 @@
 }
 body {
     background-color: var(--cor-de-fundo);
+    color: aliceblue;
 }
+
 h1{
     background-color: rgb(54, 54, 54);
 }
